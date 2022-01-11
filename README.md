@@ -1,29 +1,8 @@
-<h1 align="center">Nikolai Bermudez Vega GitHub <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
-<p  align ="left"> Ninth semester student of Software Engineering at the Escuela Colombiana de Ingeniería Julio Garavito, bilingual (English), interested in Software 
-Development and Systems and Organizations, with knowledge in 
-languages such as Java, Python, JavaScript, C++, HTML and CSS web 
-design; database administration, SCRUM methodologies, business management and design tools. 
-Experience in academic support as a computer lab monitor. Aptitude to 
-lead projects, strategic business management, information analysis, 
-effective communication, design and development of web platforms.</p>
+<h1 align="center">Nikolai Bermudez Vega <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<p  align ="justify"> Student of Software Engineering at the Julio Garavito Colombian School of Engineering, bilingual (English), interested in Software Development and Systems and Organizations, with knowledge in languages such as Java, Python, JavaScript, HTML, CSS and React web design ; database administration, SCRUM methodologies, business management and design tools.
 
+Experience in academic support as a computer lab monitor. Aptitude to lead projects, strategic business management, information analysis, effective communication, design and development of web platforms.</p>
 
-<h2 align="left">GitHub Status </h2>
-
-
-<div>
-    <img  src="https://github-readme-stats.vercel.app/api?username=Nikolai9906&show_icons=true")>
-</div>
-
-<h2 align="left">Most Used Languages </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai9906)](https://github.com/Nikolai9906/github-readme-stats) 
-
-
-
-
-    
-  
 ---
 
 <h2 align="left">Knowledges </h2>
@@ -35,25 +14,25 @@ effective communication, design and development of web platforms.</p>
 			<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
 		  </td>
 		  <td width="25%" align="center">
-			<span>Git</span><br><br><br>
-			<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+			<span>HTML / JavaScript / CSS</span><br><br><br>
+			<img height="64px" src="https://qph.fs.quoracdn.net/main-qimg-d9d29e2312ee39bb3f588445edba977f">
 		  </td>
 		  <td width="25%" align="center">
 			<span>Java</span><br><br><br>
 			<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 		  </td>
-		</tr>
+		  </tr>
 		  <td width="25%" align="center">
-			<span><b>PostgreSQL</b></span><br><br><br>
-			<img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+			<span>React</span><br><br><br>
+			<img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
 		  </td>
 		  <td width="25%" align="center">
-			<span>HTML</span><br><br><br>
-			<img height="64px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1618434003~hmac=df3c14a422567e14b2e0fb533ef72a2e">
+			<span>Spring</span><br><br><br>
+			<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png">
 		  </td>
 		  <td width="25%" align="center">
-			<span>JavaScript</span><br><br><br>
-			<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+			<span>SQL</span><br><br><br>
+			<img height="64px" src="https://cdn-icons.flaticon.com/png/512/1602/premium/1602411.png?token=exp=1641884580~hmac=cdd7b954343df4c58b66ef83369173f3">
 		  </td>
 		</tr>
 	  </tbody>
@@ -62,11 +41,20 @@ effective communication, design and development of web platforms.</p>
 
 <hr>
 
+<h2 align="center"> GitHub Status </h2>
+
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Nikolai9906&show_icons=true")>
+</div>
+
+<h2 align="center"> Most Used Languages </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai9906)](https://github.com/Nikolai9906/github-readme-stats) 
+
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNikolai9906" />
-<img src="https://komarev.com/ghpvc/?username=Nikolai9906" alt="Nikolai9906" />
 
 </p>
 

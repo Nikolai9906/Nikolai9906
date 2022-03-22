@@ -1,5 +1,5 @@
 <h1 align="center">Nikolai Bermudez Vega <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
-<p  align ="justify"> Student of Software Engineering at the Julio Garavito Colombian School of Engineering, bilingual (English), interested in Software Development and Systems and Organizations, with knowledge in languages such as Java, Python, JavaScript, HTML, CSS and React web design ; database administration, SCRUM methodologies, business management and design tools.
+<p  align ="justify"> Software Engineer at the Julio Garavito Colombian School of Engineering, bilingual (English), interested in Software Development and Systems and Organizations, with knowledge in languages such as Java, Python, JavaScript, HTML, CSS and React web design ; database administration, SCRUM methodologies, business management and design tools.
 
 Experience in academic support as a computer lab monitor. Aptitude to lead projects, strategic business management, information analysis, effective communication, design and development of web platforms.</p>
 

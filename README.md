@@ -45,19 +45,19 @@ Experience in academic support as a computer lab monitor. Aptitude to lead proje
 
 
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Nikolai9906&show_icons=true")>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Nikolai9906&include_all_commits=true")>
 </div>
 
 <h2 align="center"> Most Used Languages </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai9906)](https://github.com/Nikolai9906/github-readme-stats) 
-
-
-<p align="center">
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai9906&layout=compact")>
+ </div>
 
 
-</p>
 
-<a href="https://github.com/=Nikolai9906">
+<div align="center">
   <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</div>
+
+
+
